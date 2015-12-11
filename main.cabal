@@ -1,0 +1,12 @@
+Name:                main 
+Version:             0.0 
+Description:         fcm 
+License:             GPL 
+Author:              Tarasevich Viktoryia
+Maintainer:          tarasevich123@yandex.ru 
+Build-Type:          Simple 
+Cabal-Version:       >=1.2  
+ 
+Executable main
+   Main-is:           main.hs
+   Build-Depends:     base >= 3 && < 5 
